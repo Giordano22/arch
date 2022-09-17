@@ -8,4 +8,5 @@ setup that includes the following:
 * Uefi stub bootloader
 * Swap and BTRFS in LVM in LUKS
     * Resume and restore on full disk encryption
+
 Have fun time!
